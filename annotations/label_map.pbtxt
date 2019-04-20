@@ -1,0 +1,9 @@
+item {
+  id: 0
+  name: 'po'
+}
+
+item {
+  id: 1
+  name: 'shifu'
+}

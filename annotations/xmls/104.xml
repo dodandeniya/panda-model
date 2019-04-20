@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>104.jpg</filename>
+	<path>C:\Users\92cha\Desktop\new\104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>po</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>47</ymin>
+			<xmax>174</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>
